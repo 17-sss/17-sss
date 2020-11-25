@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xzxking17@gmail.com
 -->
 ## Welcome to my Github site. 
-👋 Hello My name is Hoyoung, I worked as a software(Delphi) developer<br/>
-    and now I am studying other techniques to become a full stack developer.
+👋 Hello My name is Hoyoung, I worked as a software(Delphi) developer, and now I am studying other techniques to <br/>become a full stack developer.
 - 🌱 I’m currently learning **JavaScript, React, Redux, Node.js, express, MySQL**.
 
 My major is **physical education:running:**, and I first got to know **IT💻** through educational institution since winter 2017.<br/>
