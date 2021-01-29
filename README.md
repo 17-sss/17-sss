@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 ## Welcome to my Github site. 
 👋 Hello My name is Hoyoung, I worked as a software(**Delphi**) developer,   
-  **A**nd now I am studying other techniques to become a frontend developer.
+  **And** now I am studying other techniques to become a frontend developer.
 - 🌱 I’m currently learning **JavaScript, React, Redux, Node.js, express, MySQL**.
 
 My major is **physical education:running:**, and I first got to know **IT💻** through educational institution since winter 2017.<br/>
