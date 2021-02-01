@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🚀 Blog : Blog Link
-- ❄ Velog : Velog Link
+- ❄ Velog : Velog Link 
 -->
 <!-- 
 - 🌱 I’m currently learning JavaScript, React, Redux, Node.js, express, MySQL.. 
