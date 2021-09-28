@@ -36,17 +36,19 @@ I have project experience using Java & Spring Framework (In educational institut
 
 <!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=HoyoungSon 🦖&fontSize=70&animation=twinkling" alt="header" />
+ 
 ### 🧑‍💻 Introduce
 
 👋 Hello My name is Hoyoung, I worked as a software(**Delphi**) developer,  
 **And** now I am studying other techniques to become a frontend developer.
 
-<div>
   <h3>🛠 Tech Stack</h3>
   <div style="padding: 4px 0">
     <h4>📺 Frontend</h4>
     <div>
-      <h6>✨ Basic</h6>
       <img
         src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
       />
@@ -61,7 +63,6 @@ I have project experience using Java & Spring Framework (In educational institut
       />
     </div>
     <div>
-      <h6>📖 Library</h6>
       <img
         src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"
       />
@@ -71,15 +72,16 @@ I have project experience using Java & Spring Framework (In educational institut
       <img
         src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
       />
+      <!--
       <img
         src="https://img.shields.io/badge/React Router-61DAFB?style=flat-square&logo=ReactRouter&logoColor=white"
       />
+      -->
       <img
         src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=React&logoColor=white"
       />
     </div>
     <div>
-      <h6>💅🏻 Style</h6>
       <img
         src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"
       />
@@ -118,7 +120,7 @@ I have project experience using Java & Spring Framework (In educational institut
       src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"
     />
   </div>
-  <hr />
+  <br />
   <div>
     <p>
       <img
