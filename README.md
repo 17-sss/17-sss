@@ -47,13 +47,12 @@ I have project experience using Java & Spring Framework (In educational institut
 
   <h3>🛠 Tech Stack</h3>
   <div style="padding: 4px 0">
-    <h4>📺 Frontend</h4>
     <div>
       <img
-        src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
+        src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"
+        src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"
       />
       <img
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"
@@ -75,11 +74,11 @@ I have project experience using Java & Spring Framework (In educational institut
       <!--
       <img
         src="https://img.shields.io/badge/React Router-61DAFB?style=flat-square&logo=ReactRouter&logoColor=white"
-      />
-      -->
+      /> 
       <img
         src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=React&logoColor=white"
       />
+     -->
     </div>
     <div>
       <img
@@ -93,6 +92,7 @@ I have project experience using Java & Spring Framework (In educational institut
       />
     </div>
   </div>
+ <!--
   <div style="padding: 4px 0">
     <h4>👾 Backend</h4>
     <img
@@ -105,6 +105,7 @@ I have project experience using Java & Spring Framework (In educational institut
       src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"
     />
   </div>
+  -->
   <div style="padding: 4px 0">
     <h4>🔩 Tools</h4>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
