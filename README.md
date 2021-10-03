@@ -92,7 +92,6 @@ I have project experience using Java & Spring Framework (In educational institut
       />
     </div>
   </div>
- <!--
   <div style="padding: 4px 0">
     <h4>👾 Backend</h4>
     <img
@@ -105,7 +104,6 @@ I have project experience using Java & Spring Framework (In educational institut
       src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"
     />
   </div>
-  -->
   <div style="padding: 4px 0">
     <h4>🔩 Tools</h4>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
