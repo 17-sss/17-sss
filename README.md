@@ -70,15 +70,15 @@ I have project experience using Java & Spring Framework (In educational institut
       />
       <img
         src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
+      />     
+     <img
+        src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=React&logoColor=white"
       />
       <!--
       <img
         src="https://img.shields.io/badge/React Router-61DAFB?style=flat-square&logo=ReactRouter&logoColor=white"
       /> 
-      <img
-        src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=React&logoColor=white"
-      />
-     -->
+      --> 
     </div>
     <div>
       <img
