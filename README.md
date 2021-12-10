@@ -44,7 +44,7 @@ I have project experience using Java & Spring Framework (In educational institut
 
 👋 Hello My name is Hoyoung, I worked as a software(**Delphi**) developer,  
 **And** now I am studying other techniques to become a frontend developer.  
-If you want to see my **portfolio**.. 👉 &nbsp; [Click!!](https://17-sss.github.io/portfolio/) 
+If you want to see my **portfolio**.. 👉 &nbsp; [here!!](https://17-sss.github.io/portfolio/) 
 
   <h3>🛠 Tech Stack</h3>
   <div style="padding: 4px 0">
