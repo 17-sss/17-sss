@@ -131,6 +131,10 @@ If you want to see my **portfolio**.. 👉 &nbsp; [here!!](https://17-sss.github
         alt="Hoyoung Son's github stats"
         src="https://github-readme-stats.vercel.app/api?username=17-sss"
       />
+      <img
+        alt="Most Used Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-sss&layout=compact"
+      />
     </p>
     <p>
       <img
