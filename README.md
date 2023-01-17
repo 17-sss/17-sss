@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://hoyoung.dev">
+  <a href="https://github.com/17-sss">
     <img
       src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=70&fontAlignY=30&color=auto&text=Hoyoung%20Son&descAlign=78&desc=It's%20OK,%20Everything%20will%20be%20fine.%20😄"
     />
@@ -37,7 +37,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=17-sss&show_icons=true&count_private=true" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-sss&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-sss&layout=compact&hide=java" />
       </td>
     </tr>
   </table>
