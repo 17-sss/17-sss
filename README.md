@@ -29,6 +29,20 @@
 
 <div align="center">
   <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=17-sss&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-sss&layout=compact&hide=java" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=17-sss&show_icons=true&count_private=true&hide_border=true"
+          width="100%"
+        />
+      </td>
+      <td width="50%">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-sss&layout=compact&hide=java&hide_border=true"
+          width="100%"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
