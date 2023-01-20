@@ -4,13 +4,7 @@
       src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=70&fontAlignY=30&color=auto&text=Hoyoung%20Son&descAlign=78&desc=It's%20OK,%20Everything%20will%20be%20fine.%20😄"
     />
   </a>
-  <p>
-    <img
-      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F17-sss&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
-    />
-  </p>
 </div>
-<br />
 
 <div align="center">
   <h3>✒️ Blog</h3>
@@ -54,4 +48,13 @@
       </td>
     </tr>
   </table>
+</div>
+<br />
+
+<div align="center">
+  <p>
+    <img
+      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F17-sss&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
+    />
+  </p>
 </div>
