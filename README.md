@@ -13,6 +13,14 @@
 <br />
 
 <div align="center">
+  <h3>✒️ Blog</h3>
+  <span><strong>[2022 ~ ing]</strong>&nbsp;<a href="https://hoyoung.dev">Next.js Blog</a></span>
+  <br />
+  <span><strong>[2021]</strong>&nbsp;<a href="https://17-sss.github.io">Gastby Blog</a></span>
+</div>
+<br />
+
+<div align="center">
   <h3>🛠 Tech Stack</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />&nbsp;
@@ -23,6 +31,7 @@
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" />&nbsp;
 </div>
 <br />
