@@ -6,6 +6,7 @@
   </a>
 </div>
 
+<!--
 <div align="center">
   <h3>✒️ Blog</h3>
   <span><strong>[2022 ~ ing]</strong>&nbsp;<a href="https://hoyoung.dev">Next.js Blog</a></span>
@@ -13,6 +14,7 @@
   <span><strong>[2021]</strong>&nbsp;<a href="https://17-sss.github.io">Gastby Blog</a></span>
 </div>
 <br />
+-->
 
 <div align="center">
   <h3>🛠 Tech Stack</h3>
